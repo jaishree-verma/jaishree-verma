@@ -7,7 +7,7 @@
 
 <br>
 <h4>Email:  jaishree.verma.work@gmail.com</h4>  
-<br><h4>
+<h4>
  Website:  [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</br>
 </h4>
 <br>
