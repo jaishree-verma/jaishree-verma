@@ -6,11 +6,9 @@
 </div>
 
 <br>
-
 <h3>📫 Contact Me</h3>
-Email: jaishree.verma.work@gmail.com  
-<br>Website: [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</br>
-
+Email:  jaishree.verma.work@gmail.com  
+<br>Website:  [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</br>
 <br>
 <div>
   <h3>🛠 Technologies and Tools I use : </h3></div>
