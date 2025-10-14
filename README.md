@@ -6,7 +6,6 @@
 </div>
 
 <br>
-<h3>📫 Contact Me</h3>
 Email:  jaishree.verma.work@gmail.com  
 <br>Website:  [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</br>
 <br>
@@ -25,12 +24,7 @@ Email:  jaishree.verma.work@gmail.com
 <h3>🌐 My Pages :</h3>
 
 [![🌍 My Website](https://img.shields.io/badge/My%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaishree-verma.github.io/)  
-<br>## Hi there 👋
 
-<!--
-**jaishree-verma/jaishree-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
