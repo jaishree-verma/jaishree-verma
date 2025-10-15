@@ -1,7 +1,7 @@
  <div align="center">
 
 # 👋 Hi there, I'm *Jaishree Verma*  
-<h2>Artificial Intelligence & Machine Learning Student @ Pranveer Singh Institute of Technology  </h2>
+<h3>Artificial Intelligence & Machine Learning Student @ Pranveer Singh Institute of Technology  </h3>
 
 </div>
 
