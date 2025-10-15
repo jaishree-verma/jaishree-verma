@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
   <a href="https://www.javaprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-C-0000CD?style=for-the-badge&logo=c&logoColor=white" alt="java"/>
+    <img src="https://img.shields.io/badge/-Java-0000CD?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/-HTML-4682B4?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Java-0000FF?style=for-the-badge&logo=java&logoColor=white" alt="figma"/>
+    <img src="https://img.shields.io/badge/-Figma-0000FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   </a>
   <a href="https://www.adobe.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Adobe%20Suite-4169E1?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
