@@ -1,16 +1,16 @@
  <div align="center">
 
 # 👋 Hi there, I'm *Jaishree Verma*  
-<h3>Artificial Intelligence & Machine Learning Student @ Pranveer Singh Institute of Technology  </h3>
+<h2>Artificial Intelligence & Machine Learning Student @ Pranveer Singh Institute of Technology  </h2>
 
 </div>
 
 <br>
-<h4>Email:  jaishree.verma.work@gmail.com</h4>  
-<h4>Website:  [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</h4></br>
+<h3>Email:  jaishree.verma.work@gmail.com</h3>  
+<h3>Website:  [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</h3></br>
 
 <div>
-  <h3>🛠 Technologies and Tools I use : </h3></div>
+  <h2>🛠 Technologies and Tools I use : </h2></div>
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -21,7 +21,7 @@
 [![Figma](https://img.shields.io/badge/Figma-0078D7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Adobe](https://img.shields.io/badge/Adobe-0078D7?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/)
 <br>
-<h3>🌐 My Pages :</h3>
+<h2>🌐 My Pages :</h2>
 
 [![🌍 My Website](https://img.shields.io/badge/My%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jaishree-verma.github.io/)  
 
