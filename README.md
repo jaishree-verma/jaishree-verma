@@ -36,7 +36,7 @@
 </p>
 
 <br/>
-## 🌐 My Pages:
+🌐 My Pages:
 <p align="left">
   <a href="https://jaishree-portfolio-lilac.vercel.app/" target="_blank">
     <!-- <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/> -->
