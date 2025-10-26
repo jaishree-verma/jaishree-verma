@@ -3,7 +3,7 @@
 <br/>
 
 - 📫 How to reach me: **jaishree.verma.work@gmail.com**
-- 📙 My website: [https://jaishree-verma.github.io/](https://jaishree-verma.github.io/)</h3>
+- 📙 My website: https://jaishree-portfolio-lilac.vercel.app/ </h3>
 <br/>
 
 ## 🛠 Technologies and tools I use:
