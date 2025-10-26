@@ -49,12 +49,12 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm Daniel Hong</h1>
-<h2 align="center">Engineering Science Student @ The University of Toronto</h2>
+<h1 align="center">Hi there 👋, I'm Jaishree Verma</h1>
+<h2 align="center">AI & ML Student @ PSIT Kanpur UP India </h2>
 <br/>
 
-- 📫 How to reach me: **danielh.toronto@gmail.com**
-- 📙 My website: https://daniel-hong.org/
+- 📫 How to reach me: **jaishree.verma.work@gmail.com**
+- 📙 My website: https://jaishree-portfolio-lilac.vercel.app/ 
 
 <br/>
 
