@@ -70,20 +70,20 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-C-0000CD?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <a href="https://www.javaprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Java-0000CD?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/-HTML-4682B4?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Java-0000FF?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-  </a>
-  <a href="https://www.solidworks.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Solidworks-1E90FF?style=for-the-badge&logo=solidworks&logoColor=white" alt="solidworks"/>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Figma-0000FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   </a>
   <a href="https://www.adobe.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Adobe%20Suite-4169E1?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
+  </a>
+  <a href="https://www.vercel.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Vercel%20Suite-4169E1?style=for-the-badge&logo=adobe&logoColor=white" alt="vercel"/>
   </a>
 </p>
 
@@ -92,7 +92,7 @@
 ## 🌐 My Pages:
 
 <p align="left">
-  <a href="https://daniel-hong.org" target="_blank">
+  <a href="//jaishree-portfolio-lilac.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
   <a href="https://athletics.ca/athlete/daniel-hong/" target="_blank">
