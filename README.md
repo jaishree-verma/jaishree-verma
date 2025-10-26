@@ -98,9 +98,7 @@
   <a href="https://athletics.ca/athlete/daniel-hong/" target="_blank">
     <img src="https://img.shields.io/badge/-Track_and_Field-1E90FF?style=for-the-badge&logo=sportradar&logoColor=white" alt="track and field"/>
   </a>
-  <a href="https://worldathletics.org/athletes/canada/daniel-hong-15096629/" target="_blank">
-    <img src="https://img.shields.io/badge/-World_Athletics-4169E1?style=for-the-badge&logo=workplace&logoColor=white" alt="work athletics"/>
-  </a>
+  
 </p>
 
 <br/>
