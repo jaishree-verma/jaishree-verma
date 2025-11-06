@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jaishree Verma</h1>
-<h2 align="center">AI & ML Student @ PSIT Kanpur UP India </h2>
+<h2 align="center">AI & ML Student @ PSITK India </h2>
 <br/>
 
 - 📫 How to reach me: **jaishree.verma.work@gmail.com**
