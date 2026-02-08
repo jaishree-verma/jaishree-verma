@@ -7,9 +7,9 @@
 ## 🛠 Technologies and tools I use:
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"> 
+  <!-- <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
-  </a>
+  </a> -->
   <a href="https://www.githubactions.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-GitHub%20Suite-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="githubactions"/>
   </a>
@@ -81,9 +81,6 @@
 <p align="left">
   <a href="https://jaishree-about.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
-  </a>
-  
-  
+  </a> 
 </p>
-
 <br/>
