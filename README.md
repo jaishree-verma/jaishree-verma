@@ -3,8 +3,7 @@
 <h3 align="center">Full Stack Developer, UI/UX Designer, Problem Solver, DevOps Developer and aspiring Software Developer</h3>
 
 - 📫 How to reach me: **jaishree.verma.work@gmail.com**
-<br/>
-
+- 
 ## 🛠 Technologies and tools I use:
 
 <p align="left">
