@@ -3,7 +3,7 @@
 <br/>
 
 - 📫 How to reach me: **jaishree.verma.work@gmail.com**
-- 📙 My website: https://jaishree-about.vercel.app/
+
 
 <br/>
 
@@ -84,7 +84,7 @@
 ## 🌐 My Pages:
 
 <p align="left">
-  <a href="//jaishree-portfolio-lilac.vercel.app/" target="_blank">
+  <a href="https://jaishree-about.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
   
