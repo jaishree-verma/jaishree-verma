@@ -80,7 +80,7 @@
 
 <p align="left">
   <a href="https://jaishree-about.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-4682B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/-Website-0000CD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a> 
 </p>
 
