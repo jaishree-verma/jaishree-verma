@@ -35,28 +35,28 @@
     <img src="https://img.shields.io/badge/-Vercel%20Suite-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   </a>
   <a href="https://www.react.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-React%20Suite-4169E1?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
+    <img src="https://img.shields.io/badge/-React%20Suite-0000CD?style=for-the-badge&logo=react&logoColor=white" alt="react"/>
   </a>
   <a href="https://www.css.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-CSS%20Suite-4169E1?style=for-the-badge&logo=css&logoColor=white" alt="css"/>
+    <img src="https://img.shields.io/badge/-CSS%20Suite-0000CD?style=for-the-badge&logo=css&logoColor=white" alt="css"/>
   </a>
   <a href="https://www.bootstrap.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-BootStrap%20Suite-4169E1?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/>
+    <img src="https://img.shields.io/badge/-BootStrap%20Suite-0000CD?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/>
   </a>
   <a href="https://www.tailwind.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Tailwind%20Suite-4169E1?style=for-the-badge&logo=tailwind&logoColor=white" alt="tailwind"/>
+    <img src="https://img.shields.io/badge/-Tailwind%20Suite-0000CD?style=for-the-badge&logo=tailwind&logoColor=white" alt="tailwind"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Mysql%20Suite-4169E1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Mongodb%20Suite-4169E1?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/-Mongodb%20Suite-0000CD?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   </a>
   <a href="https://www.nodejs.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Nodejs%20Suite-4169E1?style=for-the-badge&logo=nodejs&logoColor=white" alt="nodejs"/>
   </a>
   <a href="https://www.expressjs.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Expressjs%20Suite-4169E1?style=for-the-badge&logo=expressjs&logoColor=white" alt="expressjs"/>
+    <img src="https://img.shields.io/badge/-Expressjs%20Suite-0000CD?style=for-the-badge&logo=expressjs&logoColor=white" alt="expressjs"/>
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Docker%20Suite-4169E1?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
