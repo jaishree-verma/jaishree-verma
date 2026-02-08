@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jaishree Verma</h1>
 <h2 align="center">AI & ML Student @ PSITK India </h2>
+<br/>
 <h3 align="center">Full Stack Developer, UI/UX Designer, Problem Solver, DevOps Developer and aspiring Software Developer</h3>
 <br/>
 
