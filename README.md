@@ -2,7 +2,7 @@
 <h2 align="center">AI & ML Student @ PSITK India </h2>
 <h3 align="center">Full Stack Developer, UI/UX Designer, Problem Solver, DevOps Developer & Software Developer</h3>
 
-- 📫 How to reach me: **jaishree.verma.work@gmail.com**
+#### - 📫 How to reach me: **jaishree.verma.work@gmail.com**
 
 ## 🛠 Technologies and tools I use:
 
