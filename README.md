@@ -45,9 +45,9 @@
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Figma-0000FF?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
   </a>
-  <a href="https://www.adobe.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Adobe%20Suite-4169E1?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
-  </a>
+  <!-- <a href="https://www.adobe.com/" target="_blank">  -->
+    <!-- <img src="https://img.shields.io/badge/-Adobe%20Suite-4169E1?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/> -->
+  <!-- </a> -->
   <a href="https://www.vercel.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Vercel%20Suite-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
   </a>
@@ -78,15 +78,15 @@
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Docker%20Suite-4169E1?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   </a>
-  <a href="https://www.kubernetes.com/" target="_blank"> 
+  <!-- <a href="https://www.kubernetes.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Kubernetes%20Suite-4169E1?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.grafana.com/" target="_blank"> 
+  </a> -->
+  <!-- <a href="https://www.grafana.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Grafana%20Suite-4169E1?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
   </a>
   <a href="https://www.prometheus.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Prometheus%20Suite-4169E1?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
-  </a>
+  </a> -->
   <a href="https://www.jenkins.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-Jenkins%20Suite-4169E1?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
   </a>
