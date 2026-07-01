@@ -1,7 +1,8 @@
 <h1 align="center">Hello👋, I'm Jaishree Verma, AIML Student @ PSITK India</h1>
 <h3 align="center">AI Coder, Full Stack Developer, UI/UX Designer, Problem Solver, DevOps Developer & Software Developer</h3>
 <br />
-- 📫 How to reach me: jaishree.verma.work@gmail.com
+-> How to reach me: jaishree.verma.work@gmail.com
+<br />
 <a href="https://jaishree-about.vercel.app/">Portfolio</a>
 
 ## 🛠 Technologies and tools I use:
