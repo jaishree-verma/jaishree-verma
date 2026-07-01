@@ -14,13 +14,13 @@
 
 <h2 align="center">Final Year AIML Student @ PSIT Kanpur</h2>
 
----
+
 
 - 📬 How to reach me: <a href="mailto:jaishree.verma.work@gmail.com">jaishree.verma.work@gmail.com</a>
 
 - 🟧 My website: <a href="https://jaishree-about.vercel.app/" target="_blank">https://jaishree-about.vercel.app/</a>
 
----
+
 ## 🛠 Technologies and tools I use:
 
 <p align="left">
