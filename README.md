@@ -3,7 +3,7 @@
 <br />
 -> How to reach me: jaishree.verma.work@gmail.com
 <br />
-<a href="https://jaishree-about.vercel.app/">Portfolio</a>
+-> My Website:<a href="https://jaishree-about.vercel.app/" target="_blank">
 
 ## 🛠 Technologies and tools I use:
 
