@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Jaishree Verma, AIML Student @ PSITK India</h1>
+<!-- <h1 align="center">Hello👋, I'm Jaishree Verma, AIML Student @ PSITK India</h1>
 <h3 align="center">AI Coder, Full Stack Developer, UI/UX Designer, Problem Solver, DevOps Developer & Software Developer</h3>
 <br />
 -> How to reach me:
@@ -9,7 +9,18 @@
 <a href="https://jaishree-about.vercel.app/" target="_blank" rel="noopener noreferrer">
     Visit My Website
 </a>
-<br />
+<br /> -->
+<h1 align="center">Hi there 👋, I'm Jaishree Verma</h1>
+
+<h2 align="center">Final Year AIML Student @ PSIT Kanpur</h2>
+
+---
+
+- 📬 How to reach me: <a href="mailto:jaishree.verma.work@gmail.com">jaishree.verma.work@gmail.com</a>
+
+- 🟧 My website: <a href="https://jaishree-about.vercel.app/" target="_blank">https://jaishree-about.vercel.app/</a>
+
+---
 ## 🛠 Technologies and tools I use:
 
 <p align="left">
